@@ -1,0 +1,133 @@
+ignore:
+  - vulnerability: CVE-2022-25883
+    reason: Fixed by Seal Security
+    package:
+      name: semver
+      version: 5.7.1
+      type: npm
+  - vulnerability: GHSA-c2qf-rxjj-qqgw
+    reason: Fixed by Seal Security
+    package:
+      name: semver
+      version: 5.7.1
+      type: npm
+  - vulnerability: CVE-2022-33987
+    reason: Fixed by Seal Security
+    package:
+      name: got
+      version: 9.6.0
+      type: npm
+  - vulnerability: GHSA-pfrx-2q88-qq97
+    reason: Fixed by Seal Security
+    package:
+      name: got
+      version: 9.6.0
+      type: npm
+  - vulnerability: CVE-2024-4068
+    reason: Fixed by Seal Security
+    package:
+      name: braces
+      version: 3.0.2
+      type: npm
+  - vulnerability: GHSA-grv7-fg5c-xmjg
+    reason: Fixed by Seal Security
+    package:
+      name: braces
+      version: 3.0.2
+      type: npm
+  - vulnerability: CVE-2023-26115
+    reason: Fixed by Seal Security
+    package:
+      name: word-wrap
+      version: 1.2.3
+      type: npm
+  - vulnerability: GHSA-j8xg-fqg3-53r7
+    reason: Fixed by Seal Security
+    package:
+      name: word-wrap
+      version: 1.2.3
+      type: npm
+  - vulnerability: CVE-2022-25881
+    reason: Fixed by Seal Security
+    package:
+      name: http-cache-semantics
+      version: 4.1.0
+      type: npm
+  - vulnerability: GHSA-rc47-6667-2j5j
+    reason: Fixed by Seal Security
+    package:
+      name: http-cache-semantics
+      version: 4.1.0
+      type: npm
+  - vulnerability: CVE-2022-25883
+    reason: Fixed by Seal Security
+    package:
+      name: semver
+      version: 6.3.0
+      type: npm
+  - vulnerability: GHSA-c2qf-rxjj-qqgw
+    reason: Fixed by Seal Security
+    package:
+      name: semver
+      version: 6.3.0
+      type: npm
+  - vulnerability: CVE-2022-25883
+    reason: Fixed by Seal Security
+    package:
+      name: semver
+      version: 6.3.0
+      type: npm
+  - vulnerability: GHSA-c2qf-rxjj-qqgw
+    reason: Fixed by Seal Security
+    package:
+      name: semver
+      version: 6.3.0
+      type: npm
+  - vulnerability: CVE-2024-4067
+    reason: Fixed by Seal Security
+    package:
+      name: micromatch
+      version: 4.0.5
+      type: npm
+  - vulnerability: GHSA-952p-6rrq-rcjv
+    reason: Fixed by Seal Security
+    package:
+      name: micromatch
+      version: 4.0.5
+      type: npm
+  - vulnerability: CVE-2022-46175
+    reason: Fixed by Seal Security
+    package:
+      name: json5
+      version: 2.2.1
+      type: npm
+  - vulnerability: GHSA-9c47-m6qq-7p4h
+    reason: Fixed by Seal Security
+    package:
+      name: json5
+      version: 2.2.1
+      type: npm
+  - vulnerability: CVE-2022-25883
+    reason: Fixed by Seal Security
+    package:
+      name: semver
+      version: 7.3.7
+      type: npm
+  - vulnerability: GHSA-c2qf-rxjj-qqgw
+    reason: Fixed by Seal Security
+    package:
+      name: semver
+      version: 7.3.7
+      type: npm
+  - vulnerability: CVE-2022-25883
+    reason: Fixed by Seal Security
+    package:
+      name: semver
+      version: 5.7.1
+      type: npm
+  - vulnerability: GHSA-c2qf-rxjj-qqgw
+    reason: Fixed by Seal Security
+    package:
+      name: semver
+      version: 5.7.1
+      type: npm
