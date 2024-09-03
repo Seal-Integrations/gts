@@ -1,0 +1,38 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.25.0
+# ignores vulnerabilities until expiry date; change duration by modifying expiry date
+ignore:
+  SNYK-JS-SEMVER-3247795:
+    - '* > semver@5.7.1':
+        reason: Fixed by Seal Security
+        created: 2024-09-03T11:29:42.245Z
+    - '* > semver@6.3.0':
+        reason: Fixed by Seal Security
+        created: 2024-09-03T11:29:43.144Z
+    - '* > semver@7.3.7':
+        reason: Fixed by Seal Security
+        created: 2024-09-03T11:29:43.848Z
+  SNYK-JS-GOT-2932019:
+    - '* > got@9.6.0':
+        reason: Fixed by Seal Security
+        created: 2024-09-03T11:29:42.428Z
+  SNYK-JS-BRACES-6838727:
+    - '* > braces@3.0.2':
+        reason: Fixed by Seal Security
+        created: 2024-09-03T11:29:42.608Z
+  SNYK-JS-WORDWRAP-3149973:
+    - '* > word-wrap@1.2.3':
+        reason: Fixed by Seal Security
+        created: 2024-09-03T11:29:42.784Z
+  SNYK-JS-HTTPCACHESEMANTICS-3248783:
+    - '* > http-cache-semantics@4.1.0':
+        reason: Fixed by Seal Security
+        created: 2024-09-03T11:29:42.944Z
+  SNYK-JS-MICROMATCH-6838728:
+    - '* > micromatch@4.0.5':
+        reason: Fixed by Seal Security
+        created: 2024-09-03T11:29:43.488Z
+  SNYK-JS-JSON5-3182856:
+    - '* > json5@2.2.1':
+        reason: Fixed by Seal Security
+        created: 2024-09-03T11:29:43.671Z
